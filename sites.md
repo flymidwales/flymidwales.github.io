@@ -12,7 +12,9 @@ toc_icon: "cog"
   </tr>
   </thead>
   <tbody>
-<tr class="odd views-row-first"><td><img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-56.25-168.75.png" width="31"></td><td<a href="/node/12">Craig y Pistyll</a></td><td>060-164</td><td>CP</td><td>CP</td>
+<tr class="odd views-row-first"><td><img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-56.25-168.75.png" width="31"></td>
+<td>
+<a href="/node/12">Craig y Pistyll</a></td><td>060-164</td><td>CP</td><td>CP</td>
   </tr>
 <tr class="even"><td>
 <img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-135.00-180.00.png" width="31"></td><td>
@@ -90,6 +92,7 @@ CP</td>
 300-045</td><td>
 CP</td><td>
 CP</td>
+</tbody>
 </table>
 
 <p>Foot launch pilots rated Club Pilot and above are most welcome to fly the sites listed in this guide. <strong>We do ask however, that on your first visit to any site, you persuade a member of the Mid-Wales Club to accompany you.</strong></p>
