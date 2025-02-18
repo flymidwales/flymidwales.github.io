@@ -6,7 +6,7 @@ sidebar:
 toc: true
 toc_label: "Sites"
 toc_icon: "cog"
-    <thead><tr><th>Site Name</th><th>Wind Direction</th><th>Pilot rating (HG)</th><th>Pilot rating (PG)</th>
+ <table>   <thead><tr><th>Site Name</th><th>Wind Direction</th><th>Pilot rating (HG)</th><th>Pilot rating (PG)</th>
   </tr>
   </thead>
   <tbody>
@@ -88,6 +88,7 @@ CP</td>
 300-045</td><td>
 CP</td><td>
 CP</td>
+</table>
 
 <p>Foot launch pilots rated Club Pilot and above are most welcome to fly the sites listed in this guide. <strong>We do ask however, that on your first visit to any site, you persuade a member of the Mid-Wales Club to accompany you.</strong></p>
 <p>Our sites are not suitable for speed-flying.</p>
