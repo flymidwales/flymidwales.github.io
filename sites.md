@@ -6,7 +6,88 @@ sidebar:
 toc: true
 toc_label: "Sites"
 toc_icon: "cog"
----
+    <thead><tr><th>Site Name</th><th>Wind Direction</th><th>Pilot rating (HG)</th><th>Pilot rating (PG)</th>
+  </tr>
+  </thead>
+  <tbody>
+<tr class="odd views-row-first"><td><img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-56.25-168.75.png" width="31"></td><td<a href="/node/12">Craig y Pistyll</a></td><td>060-164</td><td>CP</td><td>CP</td>
+  </tr>
+<tr class="even"><td>
+<img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-135.00-180.00.png" width="31"></td><td>
+<a href="/node/13">Ffarmers</a></td><td>
+130-180</td><td>
+CP +20</td><td>
+CP +20</td>
+  </tr>
+<tr class="odd"><td>
+<img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-180.00-270.00.png" width="31"></td><td>
+<a href="/node/140">Beddugre</a></td><td>
+180-270</td><td>
+CP</td><td>
+CP</td>
+  </tr>
+<tr class="even"><td>
+<img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-213.75-326.25.png" width="31"></td><td>
+<a href="/node/16">Cemmaes</a></td><td>
+210-330</td><td>
+CP</td><td>
+CP</td>
+  </tr>
+<tr class="odd"><td>
+<img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-213.75-348.75.png" width="31"></td><td>
+<a href="/node/143">Foel</a></td><td>
+215-345</td><td>
+CP</td><td>
+CP</td>
+  </tr>
+<tr class="even"><td>
+<img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-247.50-337.50.png" width="31"></td><td>
+<a href="/node/4">Disgwylfa Fawr</a></td><td>
+250-340</td><td>
+CP</td><td>
+CP</td>
+  </tr>
+<tr class="odd"><td>
+<img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-258.75-281.25.png" width="31"></td><td>
+<a href="/node/17">Pen Dinas</a></td><td>
+260-280</td><td>
+CP</td><td>
+CP</td>
+  </tr>
+<tr class="even"><td>
+<img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-281.25-270.00.png" width="31"></td><td>
+<a href="/node/141">Cowlod</a></td><td>
+280-270</td><td>
+CP</td><td>
+CP</td>
+  </tr>
+<tr class="odd"><td>
+<img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-281.25-315.00.png" width="31"></td><td>
+<a href="/node/18">Constitution Hill</a></td><td>
+285-320</td><td>
+CP</td><td>
+CP</td>
+  </tr>
+<tr class="even"><td>
+<img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-281.25-45.00.png" width="31"></td><td>
+<a href="/node/144">Tremaen</a></td><td>
+285-045</td><td>
+CP</td><td>
+CP</td>
+  </tr>
+<tr class="odd"><td>
+<img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-303.75-326.25.png" width="31"></td><td>
+<a href="/node/1">Llanddewi Brefi</a></td><td>
+300-330</td><td>
+CP</td><td>
+CP</td>
+  </tr>
+<tr><td>
+<img alt="" height="31" src="https://www.flymidwales.org.uk/sites/flymidwales.org.uk/files/rose/rose-31-303.75-45.00.png" width="31"></td><td>
+<a href="/node/142">Fforest farm</a></td><td>
+300-045</td><td>
+CP</td><td>
+CP</td>
 
 <p>Foot launch pilots rated Club Pilot and above are most welcome to fly the sites listed in this guide. <strong>We do ask however, that on your first visit to any site, you persuade a member of the Mid-Wales Club to accompany you.</strong></p>
 <p>Our sites are not suitable for speed-flying.</p>
