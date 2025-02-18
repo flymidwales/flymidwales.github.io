@@ -2,13 +2,9 @@
 layout: page
 title: "Sites"
 permalink: /sites
-sidebar:
-  nav: "sidenav"
-toc: true
-toc_label: "Sites"
-toc_icon: "cog"
+
 ---
- <table>   <thead><tr><th>Site Name</th><th>Wind Direction</th><th>Pilot rating (HG)</th><th>Pilot rating (PG)</th>
+<table>   <thead><tr><th>Site Name</th><th>Wind Direction</th><th>Pilot rating (HG)</th><th>Pilot rating (PG)</th>
   </tr>
   </thead>
   <tbody>
