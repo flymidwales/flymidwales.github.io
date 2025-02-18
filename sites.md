@@ -4,7 +4,7 @@ title: "Sites"
 permalink: /sites
 
 ---
-<table>   <thead><tr><th>Site Name</th><th>Wind Direction</th><th>Pilot rating (HG)</th><th>Pilot rating (PG)</th>
+<table>   <thead><tr><th></th><th>Site Name</th><th>Wind Direction</th><th>Pilot rating (HG)</th><th>Pilot rating (PG)</th>
   </tr>
   </thead>
   <tbody>
