@@ -1,6 +1,12 @@
 layout: page
 title: "Sites"
 permalink: /sites
+sidebar:
+  nav: "sidenav"
+toc: true
+toc_label: "Sites"
+toc_icon: "cog"
+---
 
 <p>Foot launch pilots rated Club Pilot and above are most welcome to fly the sites listed in this guide. <strong>We do ask however, that on your first visit to any site, you persuade a member of the Mid-Wales Club to accompany you.</strong></p>
 <p>Our sites are not suitable for speed-flying.</p>
